@@ -1,5 +1,10 @@
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/chetanraj/awesome-github-badges)
+
 # Ethics and Digital Humanism Resources
 ### The world is becoming more and more dependant on technology and along with that comes a list of undeniable ethical and societal implications. Let's make sure we get it right!
+
+## Contents
 <!-- - [About](#about) -->
 - [Resources](#resources)
 - [Conferences](#conferences)
