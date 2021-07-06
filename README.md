@@ -15,7 +15,7 @@
 - [AI for Good Summit](https://www.re-work.co/events/ai-for-good-summit-seattle-2021) - November 11-12, 2021, Seattle
 - [Artifical Intelligence, Ethics, and Society](https://www.aies-conference.com/) - May 19-21, 2021, Virtual
 - [The Responsible AI Forum](https://responsibleaiforum.com/) - December 6-8 2021, Munich
-- [NEXT Conf](https://nextconf.eu/) - 
+- [NEXT Conf](https://nextconf.eu/) 
 
 
 ## Resources
