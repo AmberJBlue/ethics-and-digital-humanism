@@ -2,7 +2,7 @@
 [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/chetanraj/awesome-github-badges)
 
 # Ethics and Digital Humanism Resources
-### The world is becoming more and more dependant on technology and along with that comes a list of undeniable ethical and societal implications. Let's make sure we get it right!
+### The world is becoming more and more dependent on technology and along with that comes a list of undeniable ethical and societal implications. Let's make sure we get it right!
 
 ## Contents
 <!-- - [About](#about) -->
@@ -18,7 +18,7 @@
 ## Conferences
 - [ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization](https://eaamo.org/) - October 5-9, 2021, Virtual
 - [AI for Good Summit](https://www.re-work.co/events/ai-for-good-summit-seattle-2021) - November 11-12, 2021, Seattle
-- [Artifical Intelligence, Ethics, and Society](https://www.aies-conference.com/) - May 19-21, 2021, Virtual
+- [Artificial Intelligence, Ethics, and Society](https://www.aies-conference.com/) - May 19-21, 2021, Virtual
 - [The Responsible AI Forum](https://responsibleaiforum.com/) - December 6-8 2021, Munich
 - [NEXT Conf](https://nextconf.eu/) 
 
